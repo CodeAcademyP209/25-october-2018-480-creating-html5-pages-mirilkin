@@ -1,0 +1,119 @@
+body{
+    margin: 0px;
+    background: url(body.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+#story .container .row .first{
+    background-color: rgba(93, 34, 170, 0.815);
+    width: 50%;
+    color: white;
+
+}
+#story .container .row .second img{
+width: 570px;
+}
+#story .container .row .first .text{
+margin-left: 40px;
+margin-top: 30%;
+}
+#story .container .row .third{
+    background-color: white;
+    color: black;
+} 
+#story .container .row{
+    position: relative;
+
+}
+#story .container .row .third .text{
+    margin-left: -820px;
+    position: absolute;
+    background-color: white;
+    top: 65px;
+    padding:  50px 90px;
+
+}
+#story .container .row .third .text span{
+    font-weight: bold;
+}
+#story .container .row .third .text button{
+    color: rgb(93, 34, 170);
+    border-radius: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    background-color: transparent;
+    padding:10px 20px ;
+    
+}
+#work .container .row .text .header{
+    text-align: center;
+    margin-left: 220px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+#work .container .row .img{
+    margin-left: 100px;
+}
+
+#work .container .row .text{
+    margin-left: 220px;
+}
+
+#work .container .row .text2{
+    text-align: center;
+    margin-left: 340px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#story2 .container .row .second{
+    background-color: rgba(93, 34, 170, 0.815);
+    width: 50%;
+    color: white;
+
+}
+#story2 .container .row .first img{
+width: 570px;
+}
+#story2 .container .row .second .text{
+    margin-left: 315px;
+margin-top: 30%;
+}
+#story2 .container .row .third{
+    background-color: white;
+    color: black;
+} 
+#story2 .container .row{
+    position: relative;
+
+}
+#story2 .container .row .third .text{
+    margin-left: -820px;
+    position: absolute;
+    background-color: white;
+    top: 65px;
+    padding:  50px 90px;
+    
+
+}
+#story2 .container .row .third .text span{
+    font-weight: bold;
+}
+#story2 .container .row .third .text button{
+    color: rgb(86, 34, 170);
+    border-radius: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    background-color: transparent;
+    padding:10px 20px ;
+    
+}
+#work .container .row{
+    background-color: white;
+}
+#icon .container .row .imgs img{
+    margin: 50px 37px;
+}
+
+
+
+
